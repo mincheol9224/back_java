@@ -1,0 +1,14 @@
+package varibleTest;
+
+// 실습
+// 각 데이터에 맞는 타입 선언 후 출력해보기
+// 5, false, 7845.15, B, 85.10F, 자바, S, 98590, D, true, 107L 공백문자
+
+public class VaribleTask01 {
+	public static void main(String[] args) {
+	    int num1 = 5, num2 =  98590;
+	    boolean isFalse = false, isTrue = true;
+	    double num3 = 7845.15;
+	    char datea
+
+}
