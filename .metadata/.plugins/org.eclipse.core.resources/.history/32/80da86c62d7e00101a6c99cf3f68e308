@@ -1,9 +1,0 @@
-package consoleTest;
-
-public class printTest {
-	public static void main(String[] args) {
-		System.out.print("전민철");
-		System.out.print(33);
-	}
-
-}
